@@ -20,6 +20,8 @@
 		0EBDF20D22A37DAA00919E16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EBDF20B22A37DAA00919E16 /* Main.storyboard */; };
 		0EBDF20F22A37DAF00919E16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EBDF20E22A37DAF00919E16 /* Assets.xcassets */; };
 		0EBDF21222A37DAF00919E16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EBDF21022A37DAF00919E16 /* LaunchScreen.storyboard */; };
+		0EF0360422BE806A0066A61F /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF0360322BE806A0066A61F /* HomeViewController.swift */; };
+		0EF0360622BE84DC0066A61F /* TicketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF0360522BE84DC0066A61F /* TicketViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		0EBDF20E22A37DAF00919E16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EBDF21122A37DAF00919E16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0EBDF21322A37DAF00919E16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EF0360322BE806A0066A61F /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		0EF0360522BE84DC0066A61F /* TicketViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				0E8BCA3D22ACF8FA0032DC9B /* SignUpViewController.swift */,
 				0E8BCA4522AD25410032DC9B /* SignInViewController.swift */,
 				0E8BCA4722AD29F00032DC9B /* CustomTabViewController.swift */,
+				0EF0360322BE806A0066A61F /* HomeViewController.swift */,
+				0EF0360522BE84DC0066A61F /* TicketViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -182,6 +188,8 @@
 				0E8BCA4822AD29F00032DC9B /* CustomTabViewController.swift in Sources */,
 				0E8BCA4622AD25410032DC9B /* SignInViewController.swift in Sources */,
 				0E8BCA3B22ACF3EB0032DC9B /* UIButton+Design.swift in Sources */,
+				0EF0360422BE806A0066A61F /* HomeViewController.swift in Sources */,
+				0EF0360622BE84DC0066A61F /* TicketViewController.swift in Sources */,
 				0E8BCA4222AD1EF40032DC9B /* UIView+Design.swift in Sources */,
 				0E8BCA4A22AD2A700032DC9B /* UIViewController+Extension.swift in Sources */,
 				0E8BCA3E22ACF8FA0032DC9B /* SignUpViewController.swift in Sources */,
